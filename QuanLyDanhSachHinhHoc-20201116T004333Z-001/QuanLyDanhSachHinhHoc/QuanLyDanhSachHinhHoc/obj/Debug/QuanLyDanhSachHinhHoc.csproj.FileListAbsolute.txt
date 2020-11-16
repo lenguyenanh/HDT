@@ -1,0 +1,10 @@
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\bin\Debug\QuanLyDanhSachHinhHoc.exe.config
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\obj\Debug\QuanLyDanhSachHinhHoc.csprojResolveAssemblyReference.cache
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\bin\Debug\QuanLyDanhSachHinhHoc.exe
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\bin\Debug\QuanLyDanhSachHinhHoc.pdb
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\obj\Debug\QuanLyDanhSachHinhHoc.exe
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\obj\Debug\QuanLyDanhSachHinhHoc.pdb
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc-20201116T004333Z-001\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\bin\Debug\QuanLyDanhSachHinhHoc.exe.config
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc-20201116T004333Z-001\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\obj\Debug\QuanLyDanhSachHinhHoc.exe
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc-20201116T004333Z-001\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\obj\Debug\QuanLyDanhSachHinhHoc.pdb
+C:\Users\cict\Downloads\QuanLyDanhSachHinhHoc-20201116T004333Z-001\QuanLyDanhSachHinhHoc\QuanLyDanhSachHinhHoc\obj\Debug\QuanLyDanhSachHinhHoc.csprojResolveAssemblyReference.cache
